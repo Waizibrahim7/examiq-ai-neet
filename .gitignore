@@ -1,0 +1,24 @@
+# Local student data and secrets
+database.db
+student_answers.json
+.streamlit/secrets.toml
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environment files
+.venv/
+venv/
+.env
+
+# Deferred JEE material is intentionally not part of the NEET-first public release.
+previous_year_papers/jee/
+datasets/question_images/jee_*/
+datasets/question_banks/jee_*.json
+datasets/answer_keys/jee_*.json
+datasets/paper_metadata.xlsx

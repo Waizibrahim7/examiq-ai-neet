@@ -1,0 +1,2624 @@
+[
+  {
+    "question_number": 1,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q001.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 2,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q002.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 3,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q003.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 4,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q004_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q004_2.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 5,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q005.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 6,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q006.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 7,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q007.png"
+    ],
+    "source_page": 1,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 8,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q008.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 9,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q009.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 10,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q010.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 11,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q011.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 12,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q012.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 13,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q013.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 14,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q014.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 15,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q015_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q015_2.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 16,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q016.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 17,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q017.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 18,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q018.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 19,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q019.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 20,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q020.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 21,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q021.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 22,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q022.png"
+    ],
+    "source_page": 2,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 23,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q023.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 24,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q024.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 25,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q025.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 26,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q026.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 27,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q027.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 28,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q028.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 29,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q029.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 30,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q030_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q030_2.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 31,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q031.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 32,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q032.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 33,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q033.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 34,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q034.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 35,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q035.png"
+    ],
+    "source_page": 3,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 36,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q036.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 37,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q037.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 38,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q038_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q038_2.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 39,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q039.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 40,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q040.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 41,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q041.png"
+    ],
+    "source_page": 4,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 42,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q042.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 43,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q043.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 44,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q044.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 45,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q045.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 46,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q046_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q046_2.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 47,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q047.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 48,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q048.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 49,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q049.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 50,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q050.png"
+    ],
+    "source_page": 5,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 51,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q051.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 52,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q052.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 53,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q053.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 54,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q054.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 55,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q055_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q055_2.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 56,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q056.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 57,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q057.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 58,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q058.png"
+    ],
+    "source_page": 6,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 59,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q059.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 60,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q060.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 61,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q061.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 62,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q062.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 63,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q063_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q063_2.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 64,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q064.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 65,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q065.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 66,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q066.png"
+    ],
+    "source_page": 7,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 67,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q067.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 68,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q068.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 69,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q069.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 70,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q070_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q070_2.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 71,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q071.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 72,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q072.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 73,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q073.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 74,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q074.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 75,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q075.png"
+    ],
+    "source_page": 8,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 76,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q076.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 77,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q077.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 78,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q078.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 79,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q079.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 80,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q080_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q080_2.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 81,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q081.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 82,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q082.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 83,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q083.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 84,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q084.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 85,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q085.png"
+    ],
+    "source_page": 9,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 86,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q086.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 87,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q087.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 88,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q088.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 89,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q089.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 90,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q090_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q090_2.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 91,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q091.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 92,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q092.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 93,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q093.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 94,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q094.png"
+    ],
+    "source_page": 10,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 95,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q095.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 96,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q096.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 97,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q097_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q097_2.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 98,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q098.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 99,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q099.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 100,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q100.png"
+    ],
+    "source_page": 11,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 101,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q101.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 102,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q102.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 103,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q103.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 104,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q104.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 105,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q105_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q105_2.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 106,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q106.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 107,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q107.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 108,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q108.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 109,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q109.png"
+    ],
+    "source_page": 19,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 110,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q110.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 111,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q111.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 112,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q112.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 113,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q113.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 114,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q114.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 115,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q115.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 116,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q116_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q116_2.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 117,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q117.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 118,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q118.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 119,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q119.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 120,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q120.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 121,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q121.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 122,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q122.png"
+    ],
+    "source_page": 20,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 123,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q123.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 124,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q124.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 125,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q125.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 126,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q126.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 127,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q127.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 128,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q128.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 129,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q129_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q129_2.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 130,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q130.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 131,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q131.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 132,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q132.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 133,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q133.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 134,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q134.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 135,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q135.png"
+    ],
+    "source_page": 21,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 136,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q136.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 137,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q137.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 138,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q138.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 139,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q139.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 140,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q140_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q140_2.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 141,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q141.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 142,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q142.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 143,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q143.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 144,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q144.png"
+    ],
+    "source_page": 22,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 145,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q145.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 146,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q146.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 147,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q147_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q147_2.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 148,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q148.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 149,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q149.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 150,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q150.png"
+    ],
+    "source_page": 23,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 151,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q151.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 152,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q152.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 153,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q153.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 154,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q154_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q154_2.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 155,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q155.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 156,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q156.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 157,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q157.png"
+    ],
+    "source_page": 29,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 158,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q158.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 159,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q159.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 160,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q160.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 161,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q161_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q161_2.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 162,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q162.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 163,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q163.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 164,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q164.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 165,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q165.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 166,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q166.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 167,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q167.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 168,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q168.png"
+    ],
+    "source_page": 30,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 169,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q169.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 170,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q170.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 171,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q171.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 172,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q172_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q172_2.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 173,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q173.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 174,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q174.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 175,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q175.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 176,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q176.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 177,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q177.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 178,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q178.png"
+    ],
+    "source_page": 31,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 179,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q179.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 180,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q180.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 181,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q181_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q181_2.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 182,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q182.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 183,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q183.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 184,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q184.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 185,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q185.png"
+    ],
+    "source_page": 32,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 186,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q186.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 187,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q187.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 188,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q188.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 189,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q189.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 190,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q190_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q190_2.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 191,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q191.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 192,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q192.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 193,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q193.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 194,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q194.png"
+    ],
+    "source_page": 33,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 195,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q195.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 196,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q196.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 197,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q197_1.png",
+      "datasets/question_images/neet_ug_2023_solved/q197_2.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 198,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q198.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 199,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q199.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question_number": 200,
+    "image_paths": [
+      "datasets/question_images/neet_ug_2023_solved/q200.png"
+    ],
+    "source_page": 34,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  }
+]
