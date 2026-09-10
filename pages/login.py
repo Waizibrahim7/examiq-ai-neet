@@ -12,18 +12,20 @@ def apply_login_styles() -> None:
             .login-brand {
                 min-height: 390px;
                 padding: 2.4rem 2.2rem;
-                border: 1px solid #355344;
-                border-left: 5px solid #76b893;
-                background: #14201d;
-                border-radius: 8px;
+                border: 1px solid #0d5f50;
+                border-left: 5px solid #36a98c;
+                background: #123d2c;
+                border-radius: 6px;
             }
             .login-brand h1 {
                 margin: 1.2rem 0 0.65rem;
                 font-size: 2.35rem;
                 line-height: 1.12;
+                color: #ffffff !important;
             }
+            .login-brand p { color: #e5f4ea !important; }
             .login-kicker {
-                color: #9fcbb1 !important;
+                color: #9ee0c6 !important;
                 font-size: 0.86rem;
                 font-weight: 800;
                 text-transform: uppercase;
@@ -34,17 +36,17 @@ def apply_login_styles() -> None:
                 justify-content: center;
                 width: 48px;
                 height: 48px;
-                border: 1px solid #a6d4b8;
-                border-radius: 8px;
-                background: #1d4e3a;
+                border: 1px solid #8bcbb2;
+                border-radius: 6px;
+                background: #0c6d5d;
                 color: #ffffff;
                 font-size: 1.35rem;
                 font-weight: 800;
             }
             div[data-testid="stForm"] {
-                border: 1px solid #365143;
-                border-radius: 8px;
-                background: #14201d;
+                border: 1px solid #c9d9ce;
+                border-radius: 6px;
+                background: #ffffff;
                 padding: 1.35rem 1.35rem 0.6rem;
             }
             div[data-testid="stFormSubmitButton"] button {

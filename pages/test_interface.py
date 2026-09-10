@@ -6,7 +6,14 @@ from pathlib import Path
 
 import streamlit as st
 
-from database import create_or_resume_attempt, get_attempt, save_attempt, submit_attempt
+from database import (
+    create_or_resume_attempt,
+    get_challenge,
+    get_attempt,
+    record_challenge_attempt,
+    save_attempt,
+    submit_attempt,
+)
 from neet_catalog import (
     get_neet_paper,
     get_neet_papers,
@@ -67,6 +74,16 @@ def activate_attempt(student: dict, paper: dict) -> None:
     st.session_state.current_question = 1
     st.session_state.answers = attempt["answers"]
     st.session_state.marked_for_review = attempt["marked_for_review"]
+    challenge_id = st.session_state.get("active_challenge_id")
+    if not challenge_id:
+        return
+
+    challenge = get_challenge(challenge_id, student["email"])
+    if challenge and challenge.get("joined") and challenge["paper_id"] == paper["paper_id"]:
+        record_challenge_attempt(challenge_id, student["email"], attempt["attempt_id"])
+    else:
+        # A standard practice attempt must never be attached to an unrelated room.
+        st.session_state.pop("active_challenge_id", None)
 
 
 def active_attempt_for_student(student: dict) -> dict | None:

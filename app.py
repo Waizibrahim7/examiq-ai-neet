@@ -32,6 +32,7 @@ def main() -> None:
         if nav_col_2.button("Logout", width="stretch"):
             st.session_state.pop("current_student", None)
             st.session_state.active_attempt_id = None
+            st.session_state.pop("active_challenge_id", None)
             st.switch_page("pages/login.py")
 
     pages = {
@@ -53,6 +54,9 @@ def main() -> None:
             "📚 Examination": [
                 st.Page("pages/previous_year_papers.py", title="Previous Papers", icon="📄"),
                 st.Page("pages/test_interface.py", title="NEET Practice Test", icon="🧪"),
+            ],
+            "🤝 Competition": [
+                st.Page("pages/head_to_head.py", title="Head-to-Head", icon="🏁"),
             ],
             "📊 Results": [
                 st.Page("pages/result_dashboard.py", title="Result Dashboard", icon="📊"),

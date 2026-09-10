@@ -3,7 +3,16 @@ import unittest
 from pathlib import Path
 
 import database
-from database import create_or_resume_attempt, create_student, get_student_attempts, initialize_database, submit_attempt
+from database import (
+    create_challenge,
+    create_or_resume_attempt,
+    create_student,
+    get_student_challenges,
+    get_student_attempts,
+    initialize_database,
+    join_challenge,
+    submit_attempt,
+)
 from neet_catalog import get_neet_paper
 from result_engine import calculate_result
 from student_store import authenticate_student, register_student
@@ -72,6 +81,28 @@ class NeetCoreTests(unittest.TestCase):
         self.assertEqual(result["bonus"], 1)
         self.assertEqual(result["score"], 4)
         self.assertEqual(result["max_score"], 720)
+
+    def test_private_challenge_accepts_exactly_two_students(self):
+        first = create_student(
+            {"name": "Student One", "email": "challenge-one@example.com", "mobile": "9999999981", "category": "General", "state": "Delhi"},
+            "hash-one",
+        )
+        second = create_student(
+            {"name": "Student Two", "email": "challenge-two@example.com", "mobile": "9999999982", "category": "General", "state": "Delhi"},
+            "hash-two",
+        )
+        third = create_student(
+            {"name": "Student Three", "email": "challenge-three@example.com", "mobile": "9999999983", "category": "General", "state": "Delhi"},
+            "hash-three",
+        )
+
+        room = create_challenge(first["email"], "neet_ug_2025_code45")
+        joined_room = join_challenge(room["share_code"], second["email"])
+
+        self.assertEqual(joined_room["member_count"], 2)
+        self.assertEqual(len(get_student_challenges(second["email"])), 1)
+        with self.assertRaisesRegex(ValueError, "two students"):
+            join_challenge(room["share_code"], third["email"])
 
 
 if __name__ == "__main__":

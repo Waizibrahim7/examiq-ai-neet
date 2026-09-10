@@ -2,7 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from database import get_all_attempts, initialize_database
+from database import get_all_attempts, initialize_database, storage_status
 from neet_catalog import answer_key_path, get_neet_papers, question_bank_path
 from ui_theme import apply_global_styles
 
@@ -25,8 +25,9 @@ def show_system_status_page() -> None:
     rank_data = BASE_DIR / "datasets" / "neet_rank_data.csv"
     cutoff_data = BASE_DIR / "datasets" / "college_cutoffs" / "college_cutoffs.csv"
     attempts = get_all_attempts()
+    storage = storage_status()
     rows = [
-        check_row("SQLite Database", True, "Database opened with WAL mode and per-student attempt records"),
+        check_row("Student Data Storage", bool(storage["persistent"]), str(storage["detail"])),
         check_row("NEET Question Images", banks_ready == len(papers), f"{banks_ready}/{len(papers)} verified paper banks available"),
         check_row("NEET Answer Keys", answer_keys_ready == len(papers), f"{answer_keys_ready}/{len(papers)} answer keys available"),
         check_row("Evaluation Engine", answer_keys_ready == len(papers), "NEET +4/-1 scoring with the 2024 Section B rule"),
@@ -37,10 +38,11 @@ def show_system_status_page() -> None:
     ready_count = sum(row["Status"] == "Ready" for row in rows)
     metric_1, metric_2, metric_3 = st.columns(3)
     metric_1.metric("Readiness Checks", f"{ready_count}/{len(rows)}")
-    metric_2.metric("Pilot Mode", "Local SQLite")
+    metric_2.metric("Storage Backend", str(storage["backend"]))
     metric_3.metric("Verified Papers", len(papers))
     st.dataframe(rows, width="stretch", hide_index=True)
-    st.warning("For 5,000+ concurrent students, move from local SQLite to managed PostgreSQL, store PDFs/images in object storage, deploy multiple app instances, and complete load and security testing before release.")
+    if not storage["persistent"]:
+        st.warning("Persistent student accounts and live challenges are disabled for large-scale use until managed PostgreSQL is configured.")
 
 
 if __name__ == "__main__":

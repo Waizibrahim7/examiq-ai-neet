@@ -1,5 +1,6 @@
 import streamlit as st
 
+from database import storage_status
 from neet_catalog import get_neet_papers
 from pages.rank_predictor import load_rank_data, predict_air
 from result_engine import get_attempts, get_result_context
@@ -22,7 +23,7 @@ def show_dashboard_page() -> None:
     student = current_student(st.session_state)
     st.title("NEET Student Dashboard")
     if not student:
-        st.info("Create an account or sign in to store NEET attempts, results, and feedback securely.")
+        st.info("Create an account or sign in to save NEET attempts, results, and feedback to your student account.")
         login_col, register_col = st.columns(2)
         if login_col.button("Student Login", type="primary", width="stretch"):
             st.switch_page("pages/login.py")
@@ -33,7 +34,10 @@ def show_dashboard_page() -> None:
     attempts = get_attempts(student["email"])
     context = get_result_context(student["email"])
     result = context["result"] if context else None
+    storage = storage_status()
     st.caption(f"Welcome, {student['name']}. Continue where you left off or start a verified NEET PYQ.")
+    if not storage["persistent"]:
+        st.caption("Local pilot mode: persistent cloud accounts will be enabled after managed database setup.")
 
     metric_1, metric_2, metric_3, metric_4 = st.columns(4)
     metric_1.metric("Verified Papers", len(get_neet_papers()))
@@ -68,6 +72,9 @@ def show_dashboard_page() -> None:
         st.switch_page("pages/student_profile.py")
     if action_8.button("Give Feedback", width="stretch"):
         st.switch_page("pages/feedback.py")
+
+    if st.button("Challenge Another Student", width="stretch"):
+        st.switch_page("pages/head_to_head.py")
 
     st.caption("Rank and college outputs are practice estimates based on the currently loaded datasets, not an admission guarantee.")
 
